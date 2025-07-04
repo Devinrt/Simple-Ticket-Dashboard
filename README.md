@@ -1,13 +1,11 @@
 # Simple Ticket Dashboard
 
-A **minimal** Python script that converts a raw help‑desk ticket export into quick‑hit KPIs
+A Python script that converts a raw help‑desk ticket export into quick‑hit KPIs
 (ticket volume, average resolution time, SLA breaches, etc.).
 
 ## Why this exists
-Recruiters and hiring managers want proof you can:
-
+Incorporates Automation into the help desk position, with this you can:
 * Work with CSV data exports
-* Write clear, documented Python
 * Understand common help‑desk metrics
 
 ## How to run
